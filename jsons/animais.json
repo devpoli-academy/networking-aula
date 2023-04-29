@@ -1,0 +1,104 @@
+[
+  {
+    "tipo": "Cachorro",
+    "raca": "Labrador Retriever",
+    "porte": "Grande",
+    "nacionalidade": "Canadá"
+  },
+  {
+    "tipo": "Gato",
+    "raca": "Persa",
+    "porte": "Pequeno",
+    "nacionalidade": "Irã"
+  },
+  {
+    "tipo": "Gato",
+    "raca": "Siamês",
+    "porte": "Médio",
+    "nacionalidade": "Tailândia"
+  },
+  {
+    "tipo": "Cachorro",
+    "raca": "Pastor Alemão",
+    "porte": "Grande",
+    "nacionalidade": "Alemanha"
+  },
+  {
+    "tipo": "Gato",
+    "raca": "Gato Sphynx",
+    "porte": "Médio",
+    "nacionalidade": "Canadá"
+  },
+  {
+    "tipo": "Cachorro",
+    "raca": "Bulldog Francês",
+    "porte": "Pequeno",
+    "nacionalidade": "França"
+  },
+  {
+    "tipo": "Gato",
+    "raca": "British Shorthair",
+    "porte": "Médio",
+    "nacionalidade": "Reino Unido"
+  },
+  {
+    "tipo": "Cachorro",
+    "raca": "Chihuahua",
+    "porte": "Pequeno",
+    "nacionalidade": "México"
+  },
+  {
+    "tipo": "Gato",
+    "raca": "Ragdoll",
+    "porte": "Grande",
+    "nacionalidade": "Estados Unidos"
+  },
+  {
+    "tipo": "Cachorro",
+    "raca": "Poodle",
+    "porte": "Médio",
+    "nacionalidade": "Alemanha/França"
+  },
+  {
+    "tipo": "Gato",
+    "raca": "Maine Coon",
+    "porte": "Grande",
+    "nacionalidade": "Estados Unidos"
+  },
+  {
+    "tipo": "Cachorro",
+    "raca": "Golden Retriever",
+    "porte": "Grande",
+    "nacionalidade": "Reino Unido"
+  },
+  {
+    "tipo": "Gato",
+    "raca": "Sphynx",
+    "porte": "Médio",
+    "nacionalidade": "Canadá"
+  },
+  {
+    "tipo": "Cachorro",
+    "raca": "Border Collie",
+    "porte": "Médio",
+    "nacionalidade": "Reino Unido"
+  },
+  {
+    "tipo": "Gato",
+    "raca": "Bengal",
+    "porte": "Médio",
+    "nacionalidade": "Estados Unidos"
+  },
+  {
+    "tipo": "Cachorro",
+    "raca": "Boxer",
+    "porte": "Grande",
+    "nacionalidade": "Alemanha"
+  },
+  {
+    "tipo": "Gato",
+    "raca": "Persa Himalaio",
+    "porte": "Pequeno",
+    "nacionalidade": "Estados Unidos"
+  }
+]
